@@ -26,7 +26,7 @@ The core model integrates:
 - Convolutional Neural Network (CNN) for local feature extraction  
 - Vision Transformer (ViT) for image modeling  
 
-Implemented in:
+## Implemented in:
 DL_APT/
 │
 ├── CNN_5+VIT.py # CNN + ViT model
@@ -36,7 +36,7 @@ DL_APT/
 ├── train2.py # Training script
 ├── test2.py # Testing script
 
-Recommended environment:
+## Recommended environment:
 
 - Python 3.8.8
 - PyTorch
@@ -47,13 +47,13 @@ Recommended environment:
 - pydicom
 - matplotlib
 
-Convert DICOM X-ray images to CNN-compatible format:
+## Convert DICOM X-ray images to CNN-compatible format:
 python gen_PNG.py
-Training
+## Training
 python train2.py
-Testing
+## Testing
 python test2.py
-Class activation maps (CAM):
+## Class activation maps (CAM):
 python shuff_cam_last.py
 
 
