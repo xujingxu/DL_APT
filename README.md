@@ -31,7 +31,7 @@ DL_APT/
   -│
   -├── CNN_5+VIT.py # CNN + ViT model
   -├── gen_PNG.py # DICOM → PNG preprocessing
-  -├── gen_text.py # Label/text generation
+  -├── gen_text.py # Label generation
   -├── shuff_cam_last.py # CAM visualization
   -├── train2.py # Training script
   -├── test2.py # Testing script
