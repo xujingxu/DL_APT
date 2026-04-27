@@ -28,13 +28,13 @@ The core model integrates:
 
 ## Implemented in:
 DL_APT/
--│
--├── CNN_5+VIT.py # CNN + ViT model
--├── gen_PNG.py # DICOM → PNG preprocessing
--├── gen_text.py # Label/text generation
--├── shuff_cam_last.py # CAM visualization
--├── train2.py # Training script
--├── test2.py # Testing script
+  -│
+  -├── CNN_5+VIT.py # CNN + ViT model
+  -├── gen_PNG.py # DICOM → PNG preprocessing
+  -├── gen_text.py # Label/text generation
+  -├── shuff_cam_last.py # CAM visualization
+  -├── train2.py # Training script
+  -├── test2.py # Testing script
 
 ## Recommended environment:
 
